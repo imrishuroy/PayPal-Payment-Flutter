@@ -1,0 +1,49 @@
+10
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 14 lines
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 9 lines
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 9 lines
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 4 lines
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 24 lines
+3
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 7 lines
+3
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+
+3
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 5 lines
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+W/cr_AwAutofillManager(31455): Autofill is disabled: AutofillManager isn't available in given Context.
+6
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F....ID 0,0-1080,1307}
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+W/cr_AwAutofillManager(31455): Autofill is disabled: AutofillManager isn't available in given Context.
+6
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 10 lines
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 1 line
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+I/chatty  (31455): uid=10881(com.example.paypal_flutter) identical 36 lines
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F...... 0,0-1080,1307}
+2
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. .F....ID 0,0-1080,1307}
+V/InputMethodManager(31455): b/117267690: Failed to get fallback IMM with expected displayId=69 actual IMM#displayId=0 view=io.flutter.plugins.webviewflutter.InputAwareWebView{ab29974 VFEDHVC.. ......ID 0,0-1080,1307}
+D/InsetsController(31455): default animation onReady types: 8 mShow=false mHasAnimationCallbacks=true mRequestedTypes=8
+E/NetdClient(31455): querySockNetidForUid nid:0, uid:10881, command.cmdId:14, id:0
+D/InsetsAnimationCtrlImpl(31455): notify control request finished for types: 8
+D/InsetsController(31455): onAnimationFinish showOnFinish: false mRequestedTypes=8
