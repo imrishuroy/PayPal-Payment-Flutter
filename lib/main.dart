@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:paypal_flutter/braintree/braintree_payment.dart';
 import 'package:paypal_flutter/make_payment.dart';
 
 void main() {
@@ -14,6 +15,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: MakePayment());
+        // home: MakePayment(),
+        home: BrainTreePayment());
   }
 }

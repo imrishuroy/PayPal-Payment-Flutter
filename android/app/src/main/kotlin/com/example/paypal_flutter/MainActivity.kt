@@ -1,4 +1,4 @@
-package com.example.paypal_flutter
+package com.sixteenbrains.paypalflutter
 
 import io.flutter.embedding.android.FlutterActivity
 
